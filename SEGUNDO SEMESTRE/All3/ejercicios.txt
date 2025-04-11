@@ -1,0 +1,22 @@
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>           DATOS GUARDADOS          <<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+-------------------------------------------------------------------------------------
+Nombre: ['joshua']
+Peso: [45.0]
+Altura: [55.0]
+-------------------------------------------------------------------------------------
+Rutina seleccionada:
+- Press militar con barra: 4x8
+- Elevaciones laterales pesadas: 4x12
+- Face pulls con cable: 4x15
+- Pájaro con mancuernas: 3x15
+- Encogimientos para trapecio: 4x12
+- Plancha abdominal con peso: 3x60 segundos
+-------------------------------------------------------------------------------------
+Ejercicios realizados:
+- GANAR MÚSCULO HOMBROS Y ABDOMINALES: 120 minutos
+- dfsfsdf: 45 minutos
+
