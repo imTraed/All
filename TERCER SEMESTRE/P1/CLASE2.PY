@@ -10,7 +10,8 @@ class Persona:
 nombres= []
 edades = []
 ocupaciones = []
-
+#atributo son los datos o propiedades del objeto
+#metodo son acciones que se pueden realizar 
 while True:
 
     print("Menu")
