@@ -26,7 +26,7 @@ def addestado():
     if paciente:
         try:
             estado = input("Ingrese el estado del paciente: ")
-            paciente.addestado(estado)
+            paciente.addestados(estado)
             print("El diagnostico del paciente fue agregado con exito.")
         except ValueError:
             print("Error al ingresar el diagnostico.")
@@ -42,12 +42,11 @@ def mostrarpaciente():
         paciente.mostrardatos()
     else:
         print("************************************************************")
-        print("Paciente no encontrado.")
+        print("Estudiante no encontrado.")
 
 def mostrarall():
     if not pacientes:
         print("************************************************************")
         print("No existen pacientes registrados.")
-    else:
-        for pac in pacientes:
-            pac.mostrardatos()
+    for pac in pacientes:
+        pac.mostrardatos()

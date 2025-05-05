@@ -14,4 +14,3 @@ class Paciente:
         print(f"Cedula: {self.cedula}")
         print(f"Edad: {self.edad}")
         print(f"Tipo de sangre: {self.sangre}")
-        print(f"Estado del paciente: {self.estados}")
